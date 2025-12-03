@@ -7,3 +7,7 @@
 **Descripción:**
 
 En este proyecto les muestro un boceto de una página web para un restaurante inventado por mí para aplicar los conocimientos adquiridos en el Módulo 1 del curso de Fronted asistido con IA. 
+Te invito a evaluar mi progreso a traves del siguiente enlace que hice con GitHub Pages:
+
+https://beltranpinedakevin-web.github.io/PROYECTO-FINAL.github.io/
+
